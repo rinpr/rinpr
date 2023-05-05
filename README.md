@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm new to programming. I've been starting write code for 5 month!👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinpr&layout=compact&count_private=true&show_icons=true)](https://github.com/rinpr)
 <!--
